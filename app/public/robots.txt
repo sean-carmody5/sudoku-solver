@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sudoku-solver.carmodys2014.workers.dev/sitemap.xml
